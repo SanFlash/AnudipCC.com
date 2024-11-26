@@ -1,17 +1,17 @@
 Excel Table  with Qustions 
 
 
-Order ID     	Customer Name	        Region	       Product	        Quantity	     Price	       Sales	     Order Date
-101	          John Smith	        North	         Laptop	          2	       500	        1000	       2024-11-10
-102	          Alice Johnson	        South	         Tablet	         	5		  200		   1000		  2024-11-11
-103	         	Michael Brown	        East	         Smartphone     	     3	       300		    900	       2024-11-12
-104	         	Emma Wilson	        West	         Monitor	          4	       150		    600	       2024-11-13
-105		     Liam Taylor	        North	         Keyboard	         10	        20	         200	       2024-11-14
-106	         	Olivia Martinez        South	         Laptop	         	1		  500		    500	       2024-11-15
-107	         	Ethan Anderson	        East	         Smartphone     	     6	       300		   1800	       2024-11-16
-108	         	Ava Thomas	        West	         Monitor        	     2		  150		    300		  2024-11-17
-109	         	Sophia White	        North           Tablet	         	7		  200	        1400	       2024-11-18
-110	         	James Davis	        South	         Laptop	         	3	       500	        1500		  2024-11-19
+Order ID	Customer Name	Region	Product	Quantity	Price	Sales	Order Date
+101	John Smith	North	Laptop	2	500	1000	2024-11-10
+102	Alice Johnson	South	Tablet	5	200	1000	2024-11-11
+103	Michael Brown	East	Smartphone	3	300	900	2024-11-12
+104	Emma Wilson	West	Monitor	4	150	600	2024-11-13
+105	Liam Taylor	North	Keyboard	10	20	200	2024-11-14
+106	Olivia Martinez	South	Laptop	1	500	500	2024-11-15
+107	Ethan Anderson	East	Smartphone	6	300	1800	2024-11-16
+108	Ava Thomas	West	Monitor	2	150	300	2024-11-17
+109	Sophia White	North	Tablet	7	200	1400	2024-11-18
+110	James Davis	South	Laptop	3	500	1500	2024-11-19
 
 
 1.	Calculate the total sales for all orders.
